@@ -1,7 +1,10 @@
-# devhkyu.github.io
+# devhkyu (Hyungkyu Choi)
+## [Portfolio Site](https://devhkyu.github.io/)
 
+<hr>
 
 ## License
+
 ```xml
 MIT License
 
